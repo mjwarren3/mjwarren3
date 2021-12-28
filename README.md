@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mjwarren3
-- 👀 I’m interested in front-end, Machine Learning, AI
+- 👀 I’m interested in Web Development, Machine Learning, and Entrepreneurship
+- 🏀 I enjoy playing basketball, reading, and hiking
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on any interesting new startups or ideas.
+- 💞️ I’m looking to collaborate on any new and interesting ideas
 - 📫 How to reach me: mjwarren3@gmail.com
 
 <!---
