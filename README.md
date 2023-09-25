@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mjwarren3
-- 👀 I’m interested in Web Development, Machine Learning, and Entrepreneurship
+- 👀 I’m interested in Machine Learning / AI and Entrepreneurship
 - 🏀 I enjoy playing basketball, reading, and hiking
 - 💞️ I’m looking to collaborate on any new and interesting ideas
 - 📫 How to reach me: mjwarren3@gmail.com
