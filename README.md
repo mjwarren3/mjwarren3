@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any new and interesting ideas
 - 📫 How to reach me: mjwarren3@gmail.com
 
-Note: Not all current projects are listed in GitHub respository - both helloportland.org and stocksight.co are private repositories
+Note: Not all current projects are listed in GitHub repos - https://helloportland.org and https://stocksight.co are private
 
 <!---
 mjwarren3/mjwarren3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
